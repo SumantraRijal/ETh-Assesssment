@@ -1,3 +1,5 @@
+CREATING A TOKEN
+
 This Solidity contract defines a basic Ethereum token named "MyToken" with some simple functionalities.
 
 Purpose:
@@ -12,7 +14,9 @@ string public TokenAbbrv = "JC";
 uint public TotalSupply = 0;
 
 TokenName: A string representing the name of the token. Here, it's set to "John Cena".
+
 TokenAbbrv: A string representing the abbreviation of the token. Here, it's set to "JC".
+
 TotalSupply: An unsigned integer representing the total supply of the token. It's initially set to 0.
 
 2. Mapping Variable:
